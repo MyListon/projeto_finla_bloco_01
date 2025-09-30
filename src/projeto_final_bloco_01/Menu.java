@@ -27,7 +27,7 @@ public class Menu {
 			System.out.println("*****************************************************");
 			System.out.println("                                                     ");
 			
-			// OPÇÕES DO MENU (Todo em Roxo Negrito)
+			
 			System.out.println("            1 - Cadastrar Animal                     ");
 			System.out.println("            2 - Listar todos os Animais              ");
 			System.out.println("            3 - Consultar Animal por ID              ");
